@@ -4,9 +4,9 @@
   "description": "cv",
   "main": "index.js",
   "scripts": {
-    "dev" : " nodemon server.js",
+    "dev": " nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "npm server.js"
   },
   "author": "alexandre billereau",
   "license": "ISC",
