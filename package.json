@@ -1,0 +1,19 @@
+{
+  "name": "cv-v2.0.0",
+  "version": "2.0.0",
+  "description": "cv",
+  "main": "index.js",
+  "scripts": {
+    "dev" : " nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "alexandre billereau",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.6",
+    "path": "^0.12.7"
+  }
+}

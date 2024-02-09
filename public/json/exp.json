@@ -1,0 +1,50 @@
+{
+    "exemple" : [
+        {
+            "titre" : "LANGAGES",
+            "svg":"assets/braket.svg",
+            "texte":"Java : Mon introduction et mon apprentisage orienté objet c'est fait sur java <br><br> C : INF3135 - Construction et maintenance de logiciels et INF3173 - Principes des systèmes d'exploitation. Sont les deux cours ou j'ai programmé en c. <br><br> Python : INF5190 - Programmation Web avancée. Dans ce cours j'ai fait tout le backend en python avec le framework flask."
+        },
+        {
+            "titre" : "BASH/UNIX",
+            "svg":"assets/bash.svg",
+            "texte":"INF1070 - Utilisation et administration des systèmes informatiques. Ce fut mon introduction au système unix. <br><br> INF3173 - Principes des systèmes d'exploitation. Ce cours quant à lui est plus poussé tel la communication interprocessus, fork, exec, tubes, socket. <br><br> Mon projet de cours était de monter un serveur en écoute de clients."
+        },
+        {
+            "titre" : "MAVEN",
+            "svg":"assets/maven.svg",
+            "texte":"INF2050 - Outils et pratiques de développement logiciel. Notre projet de session nous a fait travailler avec maven, des tests unitaire et git en équipe de 5 personnes. <br><br> INF5153 - Génie logiciel: conception : Ce cours quant à lui nous a fait étudier les bonnes pratiques de conception en java. Donc nous utilisons maven pour la gestion de notre code en équipe."
+        },
+        {
+            "titre" : "NODEJS",
+            "svg":"assets/nodejs.svg",
+            "texte":"J'utilise en ce moment nodejs pour tous mes projets web. J'aime énormement les avantages de la librairie npm. <br><br> Ce cv est fait sur une base serveur nodejs"
+        },
+        {
+            "titre" : "SQL",
+            "svg":"assets/sql.svg",
+            "texte":"INF3080 - Bases de données : Dans ce cours j'ai vu tout le langage pl-SQL de oracle. Les requêtes comme la création de tables jusqu'à l'algèbre relationnel. <br><br> Notre projet de session était de créer une base de données pour un zoo. "
+        },
+        {
+            "titre" : "GIT",
+            "svg":"assets/git.svg",
+            "texte":"INF2050 - Outils et pratiques de développement logiciel. Ce fut le cours de notre introduction à git. <br><br> Depuis j'utilise git dans chacun de mes projets de session que ce soit seul ou en groupe. Il est aujourd'hui indispensable de savoir l'utiliser pour passer un cours au bac."
+        },
+        
+        {
+            "titre" : "ANGULAR",
+            "svg":"assets/angular.svg",
+            "texte":"The Modern Angular Bootcamp [2020] - UDEMY : Ce bootcamp en ligne ma permis de comprendre les bases de angular. Mon premier CV et un site concept pour un ancien employeur était fait en angular <br><br> Mon stage de 4 mois à CGI était en angular et NestJs. J'ai beaucoup appris sur ce projet professionnel qui était le site de VIA-RAIL Canada.  <br> <a href=\"https://cvalexandre-fxe65vkkg.vercel.app/\" target=\"_blanck\">Mon premier cv</a> <br> <a href=\"https://biyigames-6niia8ne4.vercel.app/\" target=\"_blanck\">Le site en question cv</a>"
+        },
+        {
+            "titre" : "FLUTTER",
+            "svg":"assets/flutter.svg",
+            "texte":"Flutter est un framework Google fait en dart. <br><br> Flutter est venu à moi par un ami qui voulait qu'on programme une application. Donc je me suis acheté le cours Flutter sur the AppBrewery, une plateforme de formation. <br><br> Maintenant je sais comment programmer avec Flutter."
+        },
+        {
+            "titre" : "FLASK",
+            "svg" : "assets/flask.svg",
+            "texte": "INF5190 - Programmation Web avancée : Durant ce cours j'ai appris le framework Flask en python. <br><br> Ce cours apprend à utiliser les API, utiliser des bases de données sur internet, le système de templates jinja, le routing, gestion de mot de passe et autre."
+        }
+    ]
+}
